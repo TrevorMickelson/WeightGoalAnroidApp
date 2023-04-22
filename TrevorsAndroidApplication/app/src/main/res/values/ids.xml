@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="username" type="id" />
+    <item name="password" type="id" />
+    <item name="login" type="id" />
+    <item name="forgotPassword" type="id" />
+    <item name="createNewAccount" type="id" />
+    <item name="WeightImage" type="id" />
+    <item name="WeightImageText" type="id" />
+    <item name="weightItemEditButton1" type="id" />
+    <item name="weightItem1" type="id" />
+</resources>
